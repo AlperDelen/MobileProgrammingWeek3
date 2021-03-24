@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileProgrammingWeek3</string>
+    <string name="android_programming">Android Programlama</string>
+    <string name="studying">öğreniyoruz</string>
+    <string name="imageviewdenemesi">ImageView denemesi</string>
+
+</resources>
